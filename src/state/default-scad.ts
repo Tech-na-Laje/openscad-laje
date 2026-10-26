@@ -9,12 +9,8 @@ export default `/*
   There are lots of amazing libraries in the OpenSCAD ecosystem
   (see this list: https://openscad.org/libraries.html).
 
-  Some of these libraries are bundled with this playground
-  (search for "demo" or "example" in the file explorer above)
-  and can be included directly from your models.
-
-  Any bugs (this is an Alpha!) or ideas of features?
-  https://github.com/openscad/openscad-playground/issues/new
+  Some bundled libraries can be included directly from your models.
+  Search for example files in the file explorer above.
 */
 
 title = "OpenSCAD";

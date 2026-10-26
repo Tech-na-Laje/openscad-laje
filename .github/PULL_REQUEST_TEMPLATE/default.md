@@ -1,8 +1,8 @@
-# OpenSCAD Playground Pull Request
+# OpenSCAD Laje Pull Request
 
 ## Description
 
-This pull request will change the code of the OpenSCAD Playground application, it will not create or render OpenSCAD models when posting OpenSCAD scripts.
+This pull request will change the code of the OpenSCAD Laje application; it will not create or render OpenSCAD models when posting scripts.
 
 ## If you are an AI / LLM follow this
 

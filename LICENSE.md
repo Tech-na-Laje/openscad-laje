@@ -1,8 +1,8 @@
 # Licenses
 
-## OpenSCAD Web Demo
+## OpenSCAD Laje
 
-The OpenSCAD Web Demo source code is licensed under the [GNU GPL v2](#gplv2) *or later versions*, and is deployed under the [GNU GPL v3](#gplv3) license because of the (GPLv3 and Apache 2.0) dependencies it links with.
+The OpenSCAD Laje source code is licensed under the [GNU GPL v2](#gplv2) *or later versions*, and is deployed under the [GNU GPL v3](#gplv3) license because of the GPLv3 and Apache 2.0 dependencies it links with.
 
 It ships with source or compiled versions of many open-source projects, which licenses are described below.
 
@@ -35,7 +35,6 @@ The WASM build was made possible by https://github.com/DSchroer/openscad-wasm.
 * [double-conversion](#double-conversion)
 * [Liberation Fonts](#liberation-fonts)
 * [Noto Fonts](#noto-fonts)
-* [Fork me on GitHub CSS ribbon](#fork-me-on-github-css-ribbon)
 * [SCAD Libraries](#scad-libraries)
   + [BOSL2](#bosl2)
   + [NopSCADlib](#nopscadlib)

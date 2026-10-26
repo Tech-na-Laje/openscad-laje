@@ -1,9 +1,9 @@
 {
-  "name": "openscad-playground",
+  "name": "openscad-laje",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "homepage": "https://ochafik.com/openscad2/",
+  "homepage": "./",
   "dependencies": {
     "@gltf-transform/core": "4.1.1",
     "@gltf-transform/extensions": "4.1.1",

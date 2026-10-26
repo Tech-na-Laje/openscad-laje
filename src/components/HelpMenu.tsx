@@ -11,15 +11,9 @@ export default function HelpMenu({className, style}: {className?: string, style?
     <>
       <Menu style={style} className={className}  model={[
         {
-          label: "openscad-playground",
-          icon: 'pi pi-github',
-          url: 'https://github.com/openscad/openscad-playground/',
-          target: '_blank'
-        },
-        {
           label: 'LICENSES',
           icon: 'pi pi-info-circle',
-          url: 'https://github.com/openscad/openscad-playground/blob/main/LICENSE.md',
+          url: './LICENSE.md',
           target: '_blank'
         },
         {
